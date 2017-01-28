@@ -84,7 +84,7 @@ var getMyUsername = function() {
 var userName = getMyUsername(); //Fix this
 
 //Above you're given an object, and  a function. What will the getUsername function return?
-//Note(no tests)
+//Note(no tests) 
   //Answer Here: 'iliketurtles'
 
 //In the example above, what is the 'this keyword' bound to when getUsername runs?
